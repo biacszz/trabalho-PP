@@ -28,7 +28,7 @@ gcc main.c heap.c heap.h -o heap
 
 Siga o menu interativo para escolher estratégias e manipular a memória.
 
-## Estrutura
+## Estrutura do Projeto
 
 - `heap.h` - Definições de structs e protótipos
 - `heap.c` - Implementação das funções
